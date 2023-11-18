@@ -1,0 +1,16 @@
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\bin\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.exe
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\bin\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.deps.json
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\bin\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.runtimeconfig.json
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\bin\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.dll
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\bin\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.pdb
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\obj\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.Form1.resources
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\obj\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.csproj.GenerateResource.cache
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\obj\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\obj\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.AssemblyInfoInputs.cache
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\obj\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.AssemblyInfo.cs
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\obj\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\obj\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.dll
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\obj\Debug\net7.0-windows\refint\WinForm_.Net_NeuralNetwork.dll
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\obj\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.pdb
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\obj\Debug\net7.0-windows\WinForm_.Net_NeuralNetwork.genruntimeconfig.cache
+C:\Users\redst\Documents\GitHub\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\WinForm_.Net_NeuralNetwork\obj\Debug\net7.0-windows\ref\WinForm_.Net_NeuralNetwork.dll
